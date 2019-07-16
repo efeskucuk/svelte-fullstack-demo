@@ -1,4 +1,4 @@
-# Svelte Fullstack App
+# Svelte Fullstack App [\[Demo Page\]](https://qintarp.github.io/svelte-fullstack-demo)
 
 Simple app that let's you save and share notes.
 
