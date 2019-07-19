@@ -1,6 +1,6 @@
 # Svelte Fullstack App [\[Demo Page\]](https://qintarp.github.io/svelte-fullstack-demo)
 
-Simple app that let's you save and share notes.
+Simple app that let's you save and share notes. Demo app's response time is a bit slow due to it being connected to a heroku hobby backend.
 
 # Relevant Info
 |Description|Feature|
